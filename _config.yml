@@ -25,7 +25,7 @@ webmaster-url: https://amaiken.com/pages/about
 description: Every Journey Begins Here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thegalileocase.com" # the base hostname & protocol for your site, e.g. http://example.com  
-tinylytics: # example https://tinylytics.app/embed/j5TYJcYvyv8oVE12dynD.js?hits&kudos&countries&uptime
+tinylytics: https://tinylytics.app/embed/R7TEbK5xy8WLz8Lrcn1y.js?hits&kudos&countries&uptime # example https://tinylytics.app/embed/j5TYJcYvyv8oVE12dynD.js?hits&kudos&countries&uptime
 product: Galileo Passport Case
 tag-line: Every Journey Begins Here.
 shopify-url:
