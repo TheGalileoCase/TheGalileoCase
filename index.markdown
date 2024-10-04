@@ -112,7 +112,11 @@ Iterating several times in order to get the size just right. Third or fourth cas
 
 ![](assets/img/product-photos/final-product/drum-dyed/IMG_5193-1.jpeg)
 
-![](assets/img/product-photos/final-product/drum-dyed/IMG_5194-1.jpeg)
+![](assets/img/product-photos/final-product/drum-dyed/IMG_5192-1.jpeg)
+
+![](assets/img/product-photos/final-product/drum-dyed/IMG_5470.jpeg)
+
+![](assets/img/product-photos/final-product/drum-dyed/IMG_5471.jpeg)
 
 ![](assets/img/product-photos/final-product/drum-dyed/IMG_5195-1.jpeg)
 
